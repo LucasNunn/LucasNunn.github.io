@@ -151,8 +151,14 @@ a:hover {
     margin: auto;
 }
 
-footer {
-    margin-top: 44px;
+footer div {
+    height: 100%;
+    font-family: BioRhyme;
+    font-size: 14px;
+    display: flex;
+    align-content: center;
+    padding: 10px 20px;
+    color: #2a9d8f;
 }
 
 @media all and (max-width: 700px) {
